@@ -1,0 +1,7 @@
+D:\c#\DiemDanh10-5\DiemDanh10-5\bin\Debug\DiemDanh10-5.exe.config
+D:\c#\DiemDanh10-5\DiemDanh10-5\bin\Debug\DiemDanh10-5.exe
+D:\c#\DiemDanh10-5\DiemDanh10-5\bin\Debug\DiemDanh10-5.pdb
+D:\c#\DiemDanh10-5\DiemDanh10-5\obj\Debug\DiemDanh10-5.csprojAssemblyReference.cache
+D:\c#\DiemDanh10-5\DiemDanh10-5\obj\Debug\DiemDanh10-5.csproj.CoreCompileInputs.cache
+D:\c#\DiemDanh10-5\DiemDanh10-5\obj\Debug\DiemDanh10-5.exe
+D:\c#\DiemDanh10-5\DiemDanh10-5\obj\Debug\DiemDanh10-5.pdb
