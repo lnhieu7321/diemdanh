@@ -1,0 +1,15 @@
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\bin\Debug\net6.0\BT-DiemDanh5.exe
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\bin\Debug\net6.0\BT-DiemDanh5.deps.json
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\bin\Debug\net6.0\BT-DiemDanh5.runtimeconfig.json
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\bin\Debug\net6.0\BT-DiemDanh5.dll
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\bin\Debug\net6.0\ref\BT-DiemDanh5.dll
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\bin\Debug\net6.0\BT-DiemDanh5.pdb
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\BT-DiemDanh5.csproj.AssemblyReference.cache
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\BT-DiemDanh5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\BT-DiemDanh5.AssemblyInfoInputs.cache
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\BT-DiemDanh5.AssemblyInfo.cs
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\BT-DiemDanh5.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\BT-DiemDanh5.dll
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\ref\BT-DiemDanh5.dll
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\BT-DiemDanh5.pdb
+C:\Users\Thanh Nhanh\source\repos\BT-DiemDanh5\BT-DiemDanh5\obj\Debug\net6.0\BT-DiemDanh5.genruntimeconfig.cache
