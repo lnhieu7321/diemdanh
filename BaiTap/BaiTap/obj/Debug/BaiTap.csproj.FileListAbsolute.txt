@@ -1,7 +1,0 @@
-D:\c#\BaiTap\BaiTap\bin\Debug\BaiTap.exe.config
-D:\c#\BaiTap\BaiTap\bin\Debug\BaiTap.exe
-D:\c#\BaiTap\BaiTap\bin\Debug\BaiTap.pdb
-D:\c#\BaiTap\BaiTap\obj\Debug\BaiTap.csprojAssemblyReference.cache
-D:\c#\BaiTap\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
-D:\c#\BaiTap\BaiTap\obj\Debug\BaiTap.exe
-D:\c#\BaiTap\BaiTap\obj\Debug\BaiTap.pdb
