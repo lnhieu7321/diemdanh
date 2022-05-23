@@ -1,0 +1,7 @@
+D:\221\c#\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe.config
+D:\221\c#\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe
+D:\221\c#\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.pdb
+D:\221\c#\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.csprojAssemblyReference.cache
+D:\221\c#\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.CoreCompileInputs.cache
+D:\221\c#\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.exe
+D:\221\c#\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.pdb
